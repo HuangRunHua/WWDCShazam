@@ -7,4 +7,4 @@ This project realizes the function of the program to recognize WWDC21 Keynote vi
 
 ## Demo Video
 Tap to watch the demo video.
-[![demo picture](https://github.com/HuangRunHua/WWDC21Shazam/blob/main/WWDC21Shazam/Resources/video.jpg)](https://b23.tv/TTT9W4)
+[![demo picture](https://github.com/HuangRunHua/WWDCShazam/blob/main/WWDC21Shazam/Resources/video.jpg)
